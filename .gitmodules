@@ -1,0 +1,3 @@
+[submodule "i18n/zh_CN"]
+	path = i18n/zh_CN
+	url = https://github.com/eesast/dotnet-workshop.git
